@@ -40,18 +40,23 @@ RSpec, Jasmine
 
 #### CompareTheMarket.com (November 2018 - Present)
 *Junior Software Engineer - Motor Team*
+
 Developing first class software engineer solutions within an Agile team.
 
 #### Oundle School (September 2014 to November 2018)  
 *Chemistry Teacher*
+
 Delivered Chemistry curriculum whilst monitoring each students academic performance and provided feedback for improvements. Supervised and motivated students to achieve academic goals.
 
 *Combined Cadet Force, RAF - Civilian Instructor*
+
 Developed the powers of leadership within 11-18 year olds by means of training to promote the qualities of responsibility, self reliance, resourcefulness, endurance and perseverance.
 
 #### Jack Hunt School (September 2009 to August 2014)   
-Chemistry Teacher/Technician*
+*Chemistry Teacher/Technician*
+
 Delivered Chemistry curriculum whilst monitoring each students academic performance and provided feedback for improvements. Supervised and motivated students to achieve academic goals.
 
 *Duke of Edinburgh - Instructor*
+
 Inspired, guided and supported young people in their self-development and in the recognision of their achievements.
