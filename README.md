@@ -25,10 +25,10 @@ Thinking analytically has always been a strong point of mine which have been fur
 #### Makers Academy (January 2019 to April 2019)
 
 A 16-week intensive development bootcamp, emphasizing:
-OOP, TDD, MVC, DDD
-Agile/XP
-Ruby, Rails, JavaScript
-RSpec, Jasmine
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
 
 #### Open University (September 2016 to Ongoing)
 
