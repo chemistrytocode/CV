@@ -2,19 +2,19 @@
 
 Wherever my life takes me I will always be a Scientist and an Explorer who is driven by the desire to answer the question of "Why?" with my own variation of "How?". 
 
-In the past I worked as a Chemistry Teacher and over the course of 9 years my career has led me to teach in both a struggling State School to an affluent Top 50 UK Independent School. I would describe myself as an advocate for ‘sharing knowledge’ and ‘being your best’ and believe that learning and motivation are skills that need to be harnessed and developed in their own right in order to achieve success.
+In the past I worked as a Chemistry Teacher and over the course of 9 years my career has led me to teach in both a struggling State School to an affluent Top 50 UK Independent School. As such I have had the unique perspective of motivating those students who feel they will never amount to anything to those students who feel their parents will always provide everything. Consequently I would describe myself as an advocate for ‘sharing knowledge’ and ‘being your best’ and believe that learning and motivation are skills that need to be harnessed and developed in their own right in order to achieve success.
 
-Currently I am employed as a Junior Software Engineer and am about to embark on an Apprenticeship with the Maker’s Academy. I undertook this great change in my career after listening to the very advice I was telling to others for years. I discovered that what motivates me is the thrill of a challenge, the satisfaction of creating practical solutions to actual problems and the lofty goal of learning and educating others in a field that is constantly evolving.
+Currently I am employed as a Junior Software Engineer and am about to embark on an Apprenticeship with the Maker’s Academy. I undertook this great change in my career after listening and answering the very question I impressed upon others for years; "What motivates you?". I discovered that what motivates me is the thrill of a challenge, the satisfaction of creating practical solutions to problems and the lofty goal of learning, educating others and being considered an expert in a field that is constantly evolving.
 
 ## Skills
 
 #### Communication & Presentation
 
-With 9 years experience in Teaching I consider myself to a very strong communicator and a relayer of information. I have always known that ‘Hearing’ and ‘Understanding’ are two very different things and I’m usually able to gauge the attentiveness and experience levels in others and adjust my style and pattern accordingly.
+With 9 years experience in Teaching I consider myself to a very strong communicator and relayer of information. I have always known that ‘Hearing’ and ‘Understanding’ are two very different things and I’m usually able to gauge the attentiveness and experience levels in others and adjust presentation style and pace accordingly.
 
 #### Self-Learning
 
-Whenever I have an interest in something I pursue it. My interest in Programming led to me enrolling in an Open University degree whilst working a 48 hour week and in general this nature has given a incredibly diverse set of skills. In addition to chemistry and programming I consider myself to be competent car mechanic, plumber, weightlifter and marksman by being a trained instructor for the L98 Cadet Rifle.
+Whenever I have an interest in something I pursue it. My interest in Programming led to me enrolling in an Open University degree whilst working a 48 hour week and in general this nature has given a incredibly diverse set of skills. In addition to my interests in chemistry and programming I consider myself to be competent car mechanic, plumber, weightlifter and marksman through being trained as an instructor for the L98 Cadet Rifle in my previous role.
 
 #### Analysis
 
@@ -33,7 +33,7 @@ A 16-week intensive development bootcamp, emphasizing:
 #### Open University (September 2016 to Ongoing)
 
 - Computing and IT with Software, Bsc
-- Projected 1st
+- 180 Credits completed at Distinction, Projected 1st
 - Java, Agile & Waterfall Development
 
 ## Experience
