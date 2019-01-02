@@ -60,3 +60,7 @@ Delivered Chemistry curriculum whilst monitoring each students academic performa
 *Duke of Edinburgh - Instructor*
 
 Inspired, guided and supported young people in their self-development and in the recognision of their achievements.
+
+## Interests
+
+I spend more spare time than I care to admit gaming on my PC and favour competitive multiplayer games as Counter-Strike, Overwatch and Dota 2. I have also been weightlifting for nearly 10 years and have followed Bodybuilding and Strength competition with much enthusaism over this time. Lastly I consider myself to be a keen traveller with my fondest memories being road trips across Italy, Thailand, West Coast USA and East Coast USA.
