@@ -1,6 +1,6 @@
 ## Paul Ayling
 
-Up until recently I worked as a Chemistry Teacher and my 9 year career in this field started in a struggling State School and ended in a Top 50 UK Independent School. Consequently I have a unique perspective when it comes to motivation and learning and have always been exceptionally skilled when it comes to 'getting the best from people'.
+Up until recently I worked as a Chemistry Teacher and my 9 year career in this field started in a struggling State School and ended in a Top 50 UK Independent School. Consequently I have a unique perspective when it comes to motivation and learning and have always been exceptionally skilled when it comes to *'getting the best from people'*.
 
 Currently I am employed as a Junior Software Engineer and am about to embark on an Apprenticeship with the Maker’s Academy. I undertook this great change in my career after answering the very question I impressed upon countless students over the years: __**"What motivates you?"**__.
 
@@ -65,4 +65,6 @@ Inspired, guided and supported young people in their self-development and in the
 
 ## Interests
 
-I spend more spare time than I care to admit gaming on my PC and favor competitive multiplayer games like Counter-Strike, Overwatch and Dota 2. I have also been weightlifting for nearly 10 years and have followed Bodybuilding and Strength competition with much enthusiasm over this time. Lastly, I consider myself to be a keen traveler with my fondest memories being road trips across Italy, Thailand, West Coast USA, and East Coast USA.
+I've been a weightlifter for nearly 10 years and have followed Bodybuilding and Strength competitions with much enthusiasm over this time. I am also a keen mechanic and have worked on numerous cars over the years, my latest project was a written off Saab which I repaired, self-serviced, remapped the ECU and then sold on for a profit last year.
+
+I am also an active traveller having backpacked across Europe and the USA and am currently learning to play the Piano.
