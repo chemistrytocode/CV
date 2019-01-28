@@ -1,24 +1,26 @@
 ## Paul Ayling
 
-Wherever my life takes me I will always be a Scientist and an Explorer who is driven by the desire to answer the question of "Why?" with my own variation of "How?". 
+Up until recently I worked as a Chemistry Teacher and my 9 year career in this field started in a struggling State School and ended in a Top 50 UK Independent School. Consequently I have a unique perspective when it comes to motivation and learning and have always been exceptionally skilled when it comes to 'getting the best from people'.
 
-In the past, I worked as a Chemistry Teacher and over the course of 9 years, my career has led me to teach in both a struggling State School to a Top 50 UK Independent School. As such I have had the unique perspective of motivating both those students who feel they will never amount to anything to those students who feel their parents will always provide everything. Consequently, I would describe myself as an advocate for ‘sharing knowledge’ and ‘being your best’ and believe that learning and motivation are skills that need to be harnessed and developed in their own right in order to achieve success.
+Currently I am employed as a Junior Software Engineer and am about to embark on an Apprenticeship with the Maker’s Academy. I undertook this great change in my career after answering the very question I impressed upon countless students over the years: __**"What motivates you?"**__.
 
-Currently, I am employed as a Junior Software Engineer and am about to embark on an Apprenticeship with the Maker’s Academy. I undertook this great change in my career after listening and answering the very question I impressed upon others for years; "What motivates you?". I discovered that what motivates me is the thrill of a challenge, the satisfaction of creating practical solutions to problems and the lofty goal of learning, educating others and being considered an expert in a field that is constantly evolving.
+My answer was challenges, competition, learning new skills and having clear recognizable markers of my own ability and efforts. After teaching myself to code in my spare time for years and creating a number of my own projects I realized that there was no better place for me to harness my own skills and secure my future happiness than Software Engineering.
 
 ## Skills
 
-#### Communication & Presentation
+#### Presentation & Workflow
 
-With 9 years experience in Teaching, I consider myself to a very strong communicator and relayer of information. I have always known that ‘Hearing’ and ‘Understanding’ are two very different things and I’m usually able to gauge the attentiveness and experience levels in others and adjust presentation style and pace accordingly.
+With 9 years experience in Teaching I consider myself to a very strong communicator and relayer of information. I pride myself on being able to quickly judge the attentiveness and competency of a group and adjust my delivery of information or effective workflow accordingly.
 
 #### Self-Learning
 
-Whenever I have an interest in something I pursue it. My interest in Programming led to me enrolling in an Open University degree whilst working a 48 hour week and in general, this nature has given an incredibly diverse set of skills. In addition to my interests in chemistry and programming, I consider myself to be a competent car mechanic, plumber, weightlifter and marksman through being trained as an instructor for the L98 Cadet Rifle in my previous role.
+Whenever I have an interest in something I pursue it. 
+
+My interest in programming led to me enroll in an Open University degree whilst working a 48 hour week and overall have an incredibly diverse set of skills. In addition to my interests in chemistry and programming I consider myself to be a competent car mechanic, plumber, weightlifter and marksman through being trained as an instructor for the L98 Cadet Rifle in my previous role.
 
 #### Analysis
 
-Thinking analytically has always been a strong point of mine which have been further enhanced by my time as a Scientist and Educator. Knowing which questions to ask, which data to look at, which patterns to recognize and the reasoning behind an answer are all skills that have served me very well in the past and continue to do so in my life as a developer.
+Thinking analytically has always been a strong point of mine which have been further enhanced by my time as a Scientist and Educator. Knowing which questions to ask, which data points to look at, which patterns to recognize and the reasoning behind an answer are all skills that have served me very well in the past and continue to do so as a developer.
 
 ## Education
 
